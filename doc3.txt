@@ -1,0 +1,282 @@
+{'yes', 'Aarvee Denims & Exports Ltd'}
+{'yes', 'Abhishek Corporation Ltd'}
+{'Acil Cotton Inds Ltd', 'yes'}
+{'Acknit Knitting Ltd', 'yes'}
+{'Acrow India Ltd.', 'yes'}
+{'Addi Industries Ltd', 'yes'}
+{'Adinath Textiles Ltd', 'yes'}
+{'Alchemist Corporation Ltd', 'yes'}
+{'yes', 'Alka India Ltd'}
+{'Alpha Graphic India Ltd', 'yes'}
+{'Alps Industries Ltd', 'yes'}
+{'Ambika Cotton Mills Ltd', 'yes'}
+{'yes', 'Amit International Ltd.'}
+{'Anjani Synthetics Ltd', 'yes'}
+{'yes', 'APM Industries Ltd'}
+{'yes', 'Arex Industries Ltd'}
+{'Arrow Textiles Ltd', 'yes'}
+{'Arunoday Mills Ltd.', 'yes'}
+{'yes', 'Arvind Products Ltd'}
+{'Asahi Fibres Ltd.', 'yes'}
+{'Ashima Ltd', 'yes'}
+{'Ashnoor Textile Mills Ltd', 'yes'}
+{'yes', 'Aunde Faze Three Ltd'}
+{'AV Cottex Ltd', 'yes'}
+{'yes', 'Aviva Industries Ltd'}
+{'B&B Realty Ltd', 'no'}
+{'Bafna Spinning Mills & Exports Ltd', 'yes'}
+{'yes', 'Bala Techno Synthetics Ltd'}
+{'yes', 'Bang Overseas Ltd'}
+{'yes', 'Bannari Amman Spinning Mills Ltd'}
+{'Baroda Rayon Corpn. Ltd', 'yes'}
+{'yes', 'Bengal Tea & Fabrics Ltd'}
+{'Bhandari Hosiery Exports Ltd', 'yes'}
+{'yes', 'Bhandari Udhyog Ltd'}
+{'yes', 'Bhilwara Spinners Ltd'}
+{'yes', 'Bhilwara Tex-Fin Ltd'}
+{'Bholanath International Ltd', 'yes'}
+{'Bijlee Textiles Ltd', 'yes'}
+{'yes', 'Binayak Tex Processors Ltd'}
+{'yes', 'Birla Cotsyn (India) Ltd'}
+{'yes', 'Black Rose Inds. Ltd'}
+{'Blue Chip Tex Inds. Ltd', 'yes'}
+{'yes', 'Bombay Burmah Trdg. Corpn. Ltd.'}
+{'BSL Ltd', 'yes'}
+{'Ceenik Exports (India) Ltd', 'yes'}
+{'Ceeta Industries Ltd', 'yes'}
+{'Celebrity Fashions Ltd', 'yes'}
+{'yes', 'Century Textiles & Industries. Ltd.'}
+{'Chandni Textiles Ltd', 'yes'}
+{'yes', 'Cheviot Company Ltd'}
+{'yes', 'Chhabra Spinners Ltd'}
+{'Consolidated Fibres & Chemicals Ltd', 'yes'}
+{'CT Cotton Yarn Ltd.', 'yes'}
+{'yes', 'DCM Ltd.'}
+{'yes', 'Deepak Spinners Ltd'}
+{'Dhanlaxmi Cotex Ltd', 'yes'}
+{'yes', 'Dhar Textile Mills Ltd'}
+{'Donear Industries Ltd', 'yes'}
+{'Eastern Silk Inds. Ltd.', 'yes'}
+{'Ennore Coke Ltd', 'yes'}
+{'Enterprise International Ltd', 'yes'}
+{'yes', 'Eskay Kï¿½Nï¿½It (India) Ltd'}
+{'yes', 'Everlon Synthetics Ltd'}
+{'Evinix Accessories Ltd', 'yes'}
+{'Fairdeal Filaments Ltd', 'yes'}
+{'Faze Three Ltd', 'yes'}
+{'yes', 'Filaments India Ltd'}
+{'yes', 'Filatex Fashions Ltd'}
+{'Filatex India Ltd', 'yes'}
+{'First Winner Industries Ltd', 'yes'}
+{'Futura Polyesters Ltd', 'yes'}
+{'Ganesh Polytex Ltd', 'yes'}
+{'yes', 'Garlon Polyfab Inds. Ltd'}
+{'yes', 'Garware Synthetics Ltd'}
+{'yes', 'Garware-Wall Ropes Ltd'}
+{'yes', 'Ginni Filaments Ltd'}
+{'Gloster Jute Mills Ltd', 'yes'}
+{'yes', 'Gokak Textiles Ltd'}
+{'yes', 'Golden Carpets Ltd'}
+{'Grabal Alok Impex Ltd', 'yes'}
+{'yes', 'Gravity (India) Ltd'}
+{'yes', 'GTN Industries Ltd'}
+{'yes', 'GTN Textiles Ltd'}
+{'yes', 'Gujarat Cotex Ltd'}
+{'yes', 'Gupta Synthetics Ltd'}
+{'yes', 'Hanil Era Textiles Ltd'}
+{'yes', 'Hanjer Fibres Ltd'}
+{'Haria Exports Ltd', 'yes'}
+{'Haryana Texprints (Overseas) Ltd', 'yes'}
+{'yes', 'Himatsingka Seide Ltd'}
+{'Hindoostan Spinning & Wvg. Mills Ltd.', 'yes'}
+{'House Of Pearl Fashions Ltd', 'yes'}
+{'Hytone Texstyles Ltd', 'yes'}
+{'yes', 'Ideal Carpets Ltd'}
+{'Indian Card Clothing Company Ltd', 'yes'}
+{'Indus Fila Ltd', 'yes'}
+{'International Hometex Ltd', 'yes'}
+{'yes', 'Jagjanani Textiles Ltd'}
+{'Jaihind Synthetics Ltd', 'yes'}
+{'yes', 'Jamshri Ranjitsinghji Spg. & Wvg. Mills Company Ltd'}
+{'yes', 'Janice Textiles Ltd'}
+{'yes', 'Jaybharat Textiles & Real Estate Ltd'}
+{'yes', 'JBF Industries Ltd'}
+{'JJ Exporters Ltd', 'yes'}
+{'JK Synthetics Ltd', 'yes'}
+{'Jyoti Overseas Ltd', 'yes'}
+{'Kallam Spinning Mills Ltd', 'yes'}
+{'yes', 'Kanco Enterprises Ltd'}
+{'Kapil Cotex Ltd', 'yes'}
+{'yes', 'Karan Woo-Sin Ltd'}
+{'Katare Spinning Mills Ltd.', 'yes'}
+{'yes', 'Ken Financial Services Ltd'}
+{'yes', 'Kesoram Industries Ltd.'}
+{'Kewal Kiran Clothing Ltd', 'yes'}
+{'KG Denim Ltd', 'yes'}
+{'Knitworth Exports Ltd', 'yes'}
+{'yes', 'Konark Synthetic Ltd'}
+{'Kothari Industrial Corpn. Ltd', 'yes'}
+{'yes', 'KPR Mill Ltd'}
+{'Krishna Lifestyle Technologies Ltd', 'yes'}
+{'yes', 'KSL & Industries Ltd'}
+{'yes', 'Kuvam International Fashions Ltd'}
+{'yes', 'Lakshmi Machine Works Ltd'}
+{'Lakshmi Mills Company Ltd.', 'yes'}
+{'Lambodhara Textiles Ltd.', 'yes'}
+{'Lloyd Rock fibres Ltd', 'yes'}
+{'LN Polyesters Ltd', 'yes'}
+{'yes', 'Loyal Textile Mills Ltd'}
+{'LS Inds Ltd', 'yes'}
+{'Ludlow Jute & Specialities Ltd', 'yes'}
+{'Mafatlal Industries Ltd', 'yes'}
+{'yes', 'Maharaja Shree Umaid Mills Ltd'}
+{'Mahendra Petrochemicals Ltd', 'yes'}
+{'Maikaal Fibres Ltd', 'yes'}
+{'Malwa Cotton Spg. Mills Ltd.', 'yes'}
+{'Mangalam Ventures Ltd', 'yes'}
+{'Maris Spinners Ltd.', 'yes'}
+{'yes', 'Mavi Industries Ltd'}
+{'Maxwell Industries Ltd', 'yes'}
+{'MH Mills & Inds. Ltd', 'yes'}
+{'yes', 'Mid India Inds. Ltd'}
+{'Minaxi Textiles Ltd', 'yes'}
+{'yes', 'MK Exim (India) Ltd'}
+{'Modern India Ltd.', 'yes'}
+{'yes', 'Mohit Industries Ltd'}
+{'yes', 'Morarjee Textiles Ltd'}
+{'yes', 'MPIL Corpn. Ltd'}
+{'Mudra Lifestyle Ltd', 'yes'}
+{'Nachmo Knitex Ltd', 'yes'}
+{'Nahar Industrial Enterprises Ltd', 'yes'}
+{'yes', 'Nahar Poly Films Ltd'}
+{'yes', 'Nahar Spinning Mills Ltd'}
+{'National Aluminium Company Ltd', 'yes'}
+{'yes', 'Nirlon Ltd'}
+{'Niryat-Sam Apparels (India) Ltd', 'yes'}
+{'yes', 'Nitin Spinners Ltd'}
+{'Nova Petrochemicals Ltd', 'yes'}
+{'yes', 'Numech Emballage Ltd'}
+{'Nutech Global Ltd.', 'yes'}
+{'Oasis Finvest Ltd', 'yes'}
+{'Omnitex Industries (India) Ltd', 'yes'}
+{'Orbit Exports Ltd', 'yes'}
+{'yes', 'Oswal Spinning & Wvg. Mills Ltd'}
+{'yes', 'Oswal Yarns Ltd'}
+{'Oxford Industries Ltd', 'yes'}
+{'yes', 'Pacific Cotspin Ltd'}
+{'yes', 'Padam Cotton Yarns Ltd.'}
+{'Page Industries Ltd', 'yes'}
+{'Pasupati Acrylon Ltd', 'yes'}
+{'Pasupati Fabrics Ltd', 'yes'}
+{'yes', 'Pasupati Spinning & Wvg. Mills Ltd.'}
+{'Patspin India Ltd', 'yes'}
+{'PBM Polytex Ltd', 'yes'}
+{'yes', 'Pioneer Embroideries Ltd'}
+{'yes', 'Poddar Developers Ltd'}
+{'Polypro Fibrils (India) Ltd.', 'yes'}
+{'Prag Bosimi Synthetics Ltd', 'yes'}
+{'yes', 'Prakash Woollen Mills Ltd'}
+{'yes', 'Pranavaditya Spinning Mills Ltd'}
+{'Precot Meridian Ltd', 'yes'}
+{'Premco Global Ltd', 'yes'}
+{'yes', 'Punjab Woolcombers Ltd'}
+{'Raghuvir Synthetics Ltd.', 'yes'}
+{'yes', 'Rai Saheb Rekhchand Mohota Spg. & Wvg. Mills Ltd'}
+{'Rainbow Denim Ltd', 'yes'}
+{'Rajapalayam Mills Ltd', 'yes'}
+{'Rajasthan Polyesters Ltd', 'yes'}
+{'yes', 'Rajvir Industries Ltd'}
+{'Reliance Chemotex Inds. Ltd.', 'yes'}
+{'yes', 'Riba Textiles Ltd'}
+{'Richa Industries Ltd', 'yes'}
+{'yes', 'RM Mohite Textiles Ltd'}
+{'Rosekamal Textiles Ltd', 'yes'}
+{'yes', 'RSWM Ltd'}
+{'yes', 'Ruby Mills Ltd.'}
+{'yes', 'S Kumars Nationwide Ltd'}
+{'no', 'S&Y Mills Ltd'}
+{'yes', 'Salona Cotspin Ltd'}
+{'yes', 'Sangam (India) Ltd'}
+{'yes', 'Sanghi Polyesters Ltd'}
+{'Sanrhea Technical Textiles Ltd', 'yes'}
+{'yes', 'Santaram Spinners Ltd.'}
+{'yes', 'Santogen Exports Ltd'}
+{'yes', 'Santosh Fine-Fab Ltd'}
+{'Sarita Synthetics & Inds. Ltd', 'yes'}
+{'Sarla Performance Fibres Ltd', 'yes'}
+{'yes', 'Schlafhorst Engineering (India) Ltd'}
+{'yes', 'Seasons Textiles Ltd'}
+{'yes', 'SEL Manufacturing Company Ltd'}
+{'Shamken Cotsyn Ltd', 'yes'}
+{'Shamken Multifab Ltd', 'yes'}
+{'Shamken Spinners Ltd', 'yes'}
+{'yes', 'Shiva Texyarn Ltd'}
+{'yes', 'Shree Ram Urban Infrastructure Ltd.'}
+{'Shri Ganesh Spinners Ltd', 'yes'}
+{'Shri Lakshmi Cotsyn Ltd', 'yes'}
+{'yes', 'Siddheswari Garments Ltd'}
+{'Silktex Ltd', 'yes'}
+{'yes', 'Sirdar Carbonic Gas Company Ltd'}
+{'SNS Textiles Ltd', 'yes'}
+{'yes', 'Spectacle Industries Ltd'}
+{'yes', 'Spenta International Ltd'}
+{'yes', 'Spice Islands Apparels Ltd'}
+{'SPL Industries Ltd', 'yes'}
+{'SR Industries Ltd', 'yes'}
+{'yes', 'Sree Jayalakshmi Autospin Ltd'}
+{'Sri Jayalakshmi Spg. Mills Ltd', 'yes'}
+{'SRM Energy Ltd.', 'yes'}
+{'STI India Ltd', 'yes'}
+{'yes', 'STL Global Ltd.'}
+{'yes', 'Stovec Industries Ltd'}
+{'yes', 'Subhash Silk Mills Ltd'}
+{'Sumeet Industries Ltd', 'yes'}
+{'yes', 'Sun Polytron Inds. Ltd'}
+{'yes', 'Suncity Synthetics Ltd'}
+{'yes', 'Sunday Exports Ltd'}
+{'Super Sales India Ltd', 'yes'}
+{'yes', 'Super Syncotex (India) Ltd.'}
+{'yes', 'Supertex Industries Ltd'}
+{'yes', 'Supreme Tex Mart Ltd'}
+{'yes', 'Surat Textile Mills Ltd'}
+{'yes', 'Suryaamba Spinning Mills Ltd.'}
+{'Suryalata Spinning Mills Ltd', 'yes'}
+{'yes', 'Suryavanshi Spinning Mills Ltd'}
+{'yes', 'Sutlej Textiles & Inds. Ltd'}
+{'yes', 'Swan Energy Ltd'}
+{'yes', 'Swasti Vinayaka Synthetics Ltd'}
+{'Sybly Industries Ltd.', 'yes'}
+{'Tai Chonbang Textile Inds. Ltd', 'yes'}
+{'Thambbi Modern Spg. Mills Ltd', 'yes'}
+{'yes', 'TT Ltd'}
+{'Unimin India Ltd', 'yes'}
+{'yes', 'Uniproducts (India) Ltd'}
+{'yes', 'United Interactive Ltd.'}
+{'yes', 'Unitex Designs Ltd'}
+{'Uniworth Ltd', 'yes'}
+{'Uniworth Textiles Ltd.', 'yes'}
+{'yes', 'Valson Industries Ltd'}
+{'yes', 'Vardhman Acrylics Ltd'}
+{'yes', 'Vardhman Polytex Ltd'}
+{'yes', 'Veejay Lakshmi Engg. Works Ltd'}
+{'yes', 'Ventura Textiles Ltd'}
+{'yes', 'Vertex Spinning Ltd'}
+{'yes', 'Victoria Mills Ltd.'}
+{'Vijay Textiles Ltd', 'yes'}
+{'Vijayeswari Textiles Ltd', 'yes'}
+{'yes', 'Vippy Spinpro Ltd'}
+{'yes', 'Virat Industries Ltd'}
+{'Vishal Cotspin Ltd', 'yes'}
+{'Vogue Textiles Ltd', 'yes'}
+{'Volant Textile Mills Ltd', 'yes'}
+{'yes', 'VTM Ltd'}
+{'Vyapar Industries Ltd', 'yes'}
+{'Weizmann Ltd', 'yes'}
+{'yes', 'Welspun Syntex Ltd'}
+{'Western India Cottons Ltd', 'yes'}
+{'yes', 'Wheel & Axle Textiles Ltd'}
+{'White House Cotton Inds. Ltd', 'yes'}
+{'yes', 'Winsome Textile Inds. Ltd'}
+{'Winsome Yarns Ltd', 'yes'}
+{'Yarn Syndicate Ltd', 'yes'}
+{'yes', 'Zenith Fibres Ltd'}
